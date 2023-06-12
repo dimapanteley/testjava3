@@ -1,4 +1,5 @@
-package com.example.test3java;
+package com.example.test3java;  //homework done
+
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
